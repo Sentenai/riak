@@ -1,3 +1,5 @@
+_build/
+_checkouts/
 deps/*
 rel/riak
 rel/vars/dev*_vars.config
@@ -6,4 +8,3 @@ perfdev/
 ebin/
 apps/riak/.eunit
 apps/riak/.rebar
-.DS_Store
